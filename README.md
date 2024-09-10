@@ -99,12 +99,13 @@ To register an admin user through Postman, follow these steps:
 5. **Select "raw"** and choose `JSON` from the dropdown menu.
 
 6. **Enter the following JSON data** in the body:
-{
+   ```json
+   {
     "username": "admin",
     "email": "admin@xyz.com",
     "password": "123456789",
     "role": "admin"
-}
+   }
 
 
 
