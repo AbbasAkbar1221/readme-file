@@ -107,8 +107,6 @@ To register an admin user through Postman, follow these steps:
     "role": "admin"
    }
 
-
-
 https://github.com/user-attachments/assets/84d97561-1acd-412c-ba61-95ecddd70c10
 
 
