@@ -90,7 +90,7 @@ To register an admin user through Postman, follow these steps:
 1. **Open Postman** and create a new `POST` request.
 
 2. **Set the request URL** to:
-   [Go to Backend](http://localhost:5000/auth/register)
+   http://localhost:3006/auth/register
 
 3. **Set the request method** to `POST`.
 
@@ -106,10 +106,6 @@ To register an admin user through Postman, follow these steps:
     "password": "123456789",
     "role": "admin"
    }
-
-
-
-
 
 https://github.com/user-attachments/assets/6e8f162a-4647-47ea-922d-fab6a8281294
 
